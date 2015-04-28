@@ -3,6 +3,11 @@
 <h6>Practice GIT branches and group workflows in this directory</h6>
 **never ever push to master**
 
+	Daily Checklist file will be updated with our deliverables by the next day check-in. This must be pulled into your local repository, and edited in your working branch. A simple "i've done my task!" will suffice for the changes in the checklist file. Git add and commit locally, then push origin <branch name> and pull request on github.com. Happy Workflow!!!! :)
+
+
+<h4> WorkFlow Cheat Sheet</h4>
+
 
 `Git Clone https://.....git`
 
