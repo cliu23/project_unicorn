@@ -10,7 +10,7 @@
 
 **Ladan**: Write git cheat sheet and Check List
 
-**Calvin**: Get google calendar setup with due dates
+**Calvin**: Get google calendar setup with due dates (4/28) - Added events to the calendar. 
 
 **Everyone**: Three elevator pitches of app ideas, with APIs.
 		  
