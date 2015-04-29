@@ -4,7 +4,7 @@
 
 **April 28th**
 
-**Alex**: Evernote setup
+**Alex**: Evernote setup, 4/28 Evernote ready to go.
 
 **Sean**: Pivotal Tracker and Git Cheat Sheet : (4/28) - Added changes!
 
