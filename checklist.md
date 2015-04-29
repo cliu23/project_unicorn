@@ -1,8 +1,33 @@
 #Daily Check List
 
 <h6> Deliverables due at our check-ins </h6>
+---
 
-**April 28th**
+*Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and commmunicate merge request.*
+
+___
+
+<h5>April 29th</h5>
+
+**Alex**: Maintain Evernote
+
+**Ladan**: Git checklist
+
+**Sean**: Pivotal Tracker Setup, send us link
+
+**Calvin**: Due dates to Google Cal
+
+**Everyone**: 
+
+* Research APIs
+* Does your terminal show your branch?
+* One user story idea each.
+
+
+***
+
+<h5>April 28th</h5>
+
 
 **Alex**: Evernote setup, 4/28 Evernote ready to go.
 
@@ -14,4 +39,4 @@
 
 **Everyone**: Three elevator pitches of app ideas, with APIs.
 		  
-Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and merge request.
+*Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and merge request.*
