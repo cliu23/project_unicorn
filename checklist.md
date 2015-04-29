@@ -6,7 +6,7 @@
 
 **Alex**: Evernote setup
 
-**Sean**: Pivotal Tracker and Git Cheat Sheet
+**Sean**: Pivotal Tracker and Git Cheat Sheet : (4/28) - Added changes!
 
 **Ladan**: Write git cheat sheet and Check List
 
