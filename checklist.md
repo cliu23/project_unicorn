@@ -15,7 +15,7 @@ ___
 
 **Sean**: Pivotal Tracker Setup, send us link
 
-**Calvin**: Due dates to Google Cal
+**Calvin**: Due dates to Google Cal - added dates to google calendar - CL
 
 **Everyone**: 
 
