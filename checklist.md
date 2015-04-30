@@ -6,6 +6,20 @@
 *Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and commmunicate merge request.*
 
 ___
+<h5>April 30th</h5>
+
+**Alex**: Add new elevator pitch to keynote
+
+**Ladan**: Git checklist, images of us
+
+**Sean**: cheat sheet pivotal tracker + git
+
+**Calvin**: Peep the Youtube API
+
+**Everyone**: Think of some user stories
+
+
+***
 
 <h5>April 29th</h5>
 
