@@ -14,7 +14,7 @@ ___
 
 **Sean**: cheat sheet pivotal tracker + git
 
-**Calvin**: Peep the Youtube API
+**Calvin**: Peep the Youtube API. -- Worked on the user stories.  WIll look in to the Youtube API and figure out which json code we need. - CL
 
 **Everyone**: Think of some user stories
 
