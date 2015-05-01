@@ -6,6 +6,13 @@
 *Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and commmunicate merge request.*
 
 ___
+<h5>May 1st</h5>
+
+**Everyone**: Develop our backend. EVERYONE MUST DO A GIT PULL TODAY!!!! Plan for the weekend. Review YouTube API again, as a group. Organize Stack. 
+
+
+***
+
 <h5>April 30th</h5>
 
 **Alex**: Add new elevator pitch to keynote
