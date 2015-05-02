@@ -6,6 +6,21 @@
 *Git Pull this checklist and on your own branch add what you have completed, then git push origin <branch name> after adding and committing, go into git hub and commmunicate merge request.*
 
 ___
+<h5>Weekend of May 2nd-3rd</h5>
+
+**Alex**: Research Twitter API- answer how many get requests will it take to generate feed & the hash tag bar, will we be over our limit?
+
+**Ladan**: Git checklist, sync pivotal and github, edit readme, get Oauth/heroku info ready to execute on Monday
+
+**Sean**: get started with logo sketches. Add user stories to pivotal related to our new expanded database models. 
+
+**Calvin**: Push the edited app from friday to repo, put your research about YouTube API in a cheatsheet on Evernote for us to read
+
+**Everyone**: Research APIs, we must be pros in regards to this!!!
+
+
+***
+
 <h5>May 1st</h5>
 
 **Everyone**: Develop our backend. EVERYONE MUST DO A GIT PULL TODAY!!!! Plan for the weekend. Review YouTube API again, as a group. Organize Stack. 
