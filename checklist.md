@@ -16,7 +16,10 @@ ___
 
 **Calvin**: Push the edited app from friday to repo, put your research about YouTube API in a cheatsheet on Evernote for us to read
 
-**Everyone**: Research APIs, we must be pros in regards to this!!!
+**Everyone**: Get all API keys, what can we do with them, any relative gems?
+Background worker gem?
+Start creating models, controllers and views.
+Extra: Practice consuming anAPI with HTTPARTY
 
 
 ***
